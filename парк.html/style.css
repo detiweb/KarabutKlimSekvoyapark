@@ -1,0 +1,16 @@
+body{
+	font-family: 'Yomogi', cursive;
+	background: url(1.jpg);
+	color: white;
+	
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+p {
+   color:#AFEEEE;
+}
+
+
+.h{
+	text-align : center;
+}

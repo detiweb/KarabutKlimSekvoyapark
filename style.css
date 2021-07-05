@@ -1,16 +1,38 @@
 body{
 	font-family: 'Yomogi', cursive;
 	background: url(1.jpg);
-	color: white;
-	
 	background-repeat: no-repeat;
 	background-size: 100%;
-
-p {
-   color:#AFEEEE;
+}
+.skvish{
+	color: red;
+}
+.simpledimple {
+   color:blue;
 }
 
 
-.h{
+h1{
 	text-align : center;
+	text-decoration: underline;
+}
+a{
+	color:#E0FFFF;
+}
+h2{
+	text-decoration: underline;
+}
+
+.popit{
+	color: red;
+	text-decoration: unset;
+}
+
+
+
+.card{
+	background-color: #E0FFFF;
+	width:320px;
+	box-shadow: 0 20px 10px 0 black;
+	color:pink;
 }
